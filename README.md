@@ -1,13 +1,8 @@
 <div align="center" text="large">
   <h1> HadenCain.WhoAmI() </h1>
-  
-</div>![hcwhoami](https://user-images.githubusercontent.com/97778479/232344259-2cd53292-9cca-4b55-a13e-d2d8741ab082.jpg)
+  </div>
 
-
-<div align="center">
-  Age: 22 | Region: Midwest US | 
-  Computer science student looking for collaborative projects.
-</div>
+  Computer science student looking for collaborative projects. I'm also building a digital audio workstation for experimental musicians... </div>
 
                                                 .        _            .-.     *      -
                                                              ({)_    .    (   \                    
