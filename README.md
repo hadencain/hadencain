@@ -1,14 +1,15 @@
-# HadenCain.About():
-<sub>*By keeping myself busy with the pursuit of knowledge and excellence, I steer clear of idle hands and the trouble they bring.*</sub>
-### c|xxxx|:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;>
-Computer science student looking for collaborative projects.
-## Some of my current interests and studies
-  - Music tools(Max for Live, Ableton, ChucK) - <sub> I want to build my own custom tool or lang </sub>
-  - Data collection/data science - kaggle @hadencain
-  - Windows/Linux applications/automations
-  - 3D printing/modeling software - octoprint
-  - IoT devices and automations - Raspberry Pi
+<div align="center" text="large"> <h1> HadenCain.About():</h1>c|xxxx|:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;>  </div>
 
+<div align="center">Computer science student looking for collaborative projects.</div>
+
+
+
+## Some of my current interests 📚
+  - 🎵 Digital audio workstations and MIDI software for windows
+  - 🔧 Windows/Linux/Mobile multi-tenant applications
+  - 📶 IoT devices for data collection
+  - 🕷 Data modeling
+  - 🔬 Algorithm analysis
 <!--
 
 **hadencain/hadencain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
