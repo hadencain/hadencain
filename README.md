@@ -2,7 +2,7 @@
   <h1> HadenCain.WhoAmI() </h1>
   </div>
 
-  Computer science student looking for collaborative projects. I'm also building a digital audio workstation for experimental musicians... </div>
+  Computer science student looking for collaborative projects and friendships in the space. </div>
 
                                                 .        _            .-.     *      -
                                                              ({)_    .    (   \                    
