@@ -14,7 +14,7 @@
 
 
 ## Some of my current interests 📚
-  - 🎵 Digital audio workstations and MIDI software for windows
+  - 🎵 Digital audio workstations and audio programming
   - 🔧 Windows/Linux/Mobile multi-tenant applications
   - 📶 IoT devices for sensory data collection
   - 🕷 Data modeling for machine learning
