@@ -2,7 +2,7 @@
   <h1> HadenCain.WhoAmI() </h1>
   </div>
 
-  Computer science student looking for collaborative projects and friendships in the space. </div>
+  I like pooters </div>
 
                                                 .        _            .-.     *      -
                                                              ({)_    .    (   \                    
@@ -13,13 +13,11 @@
                                                         B'         `-'
 
 
-## Some of my current interests 📚
-  - 🎵 Digital audio workstations and audio programming
-  - 🔧 Windows/Linux/Mobile multi-tenant applications
-  - 📶 IoT devices for sensory data collection
-  - 🕷 Data modeling for machine learning
-  - 🔬 Algorithm analysis
-
+## interests 📚
+  - generative audio using MaxMSP
+  - Interactive visuals with Touchdesigner
+  - procedural 3d modeling in Blender
+  - data analysis, predictive modeling, and AI
 <!--
 
 **hadencain/hadencain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
