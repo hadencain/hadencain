@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haden%20Cain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/77031124a)
 [![Email](https://img.shields.io/badge/Email-HadenCain.Design%40gmail.com-555?style=flat&logo=gmail&logoColor=white)](mailto:hadencain.design@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Demos-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLt7EcRWaqJPFppQZRZEVaQ)
+[![Keybase](https://img.shields.io/badge/Keybase-hadencain-33A0FF?style=flat&logo=keybase&logoColor=white)](https://keybase.io/hadencain)
 
 # Haden Cain
 
