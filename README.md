@@ -13,7 +13,7 @@
 | project | description |
 |---|---|
 | [granular synthesizer](https://github.com/hadencain/granulator) | Granular synthesis VST3 plugin built with JUCE 7 |
-| [audioSort](https://github.com/hadencain/audioSort) | multi-signal ML classifier for organizing audio sample libraries — path context, metadata, spectral analysis, and AST model (HuggingFace) |
+| [audioSort](https://github.com/hadencain/audioSort) | multi-signal ML classifier for organizing audio sample libraries |
 | [tunedown-theory](https://github.com/hadencain/tunedown-theory) | interactive scale and theory practice tool with fretboard and keyboard visualization |
 | [spotify-companion](https://github.com/hadencain/spotify-companion) | an accompanist for Spotify listening sessions with ChucK |
 | [Harmonic_filter_sequencer](https://github.com/hadencain/Harmonic_filter_sequencer) | bandpass filter applied to harmonics of incoming audio |
