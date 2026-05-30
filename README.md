@@ -13,7 +13,8 @@
 | project | description |
 |---|---|
 | [granular synthesizer](https://github.com/hadencain/granulator) | Granular synthesis VST3 plugin built with JUCE 7 |
-| [audioSort (for splice)](https://github.com/hadencain/audioSort) | sorts audio files into categorized folders based on keywords |
+| [audioSort](https://github.com/hadencain/audioSort) | multi-signal ML classifier for organizing audio sample libraries — path context, metadata, spectral analysis, and AST model (HuggingFace) |
+| [tunedown-theory](https://github.com/hadencain/tunedown-theory) | interactive scale and theory practice tool with fretboard and keyboard visualization |
 | [spotify-companion](https://github.com/hadencain/spotify-companion) | an accompanist for Spotify listening sessions with ChucK |
 | [Harmonic_filter_sequencer](https://github.com/hadencain/Harmonic_filter_sequencer) | bandpass filter applied to harmonics of incoming audio |
 | [Schroeder_reverb_model](https://github.com/hadencain/Schroeder_reverb_model) | Schroeder's algorithm with ensemble amplitude controlling parameters |
@@ -42,6 +43,12 @@
 | [mlb-ev-analysis](https://github.com/hadencain/mlb-ev-analysis) | baseball analytics for predicting outcomes and identifying betting edges |
 | [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
+
+### security tools
+
+| project | description |
+|---|---|
+| [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
 
 
 
@@ -93,4 +100,3 @@
 </details>
 
 <!-- END YOUTUBE-CARDS -->
-
