@@ -50,6 +50,7 @@
 |---|---|
 | [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
 | [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure — API keys, private keys, AWS creds, passwords — with git pre-commit hook integration |
+| [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and known CVEs — from a local requirements.txt or any GitHub repo URL |
 
 
 
