@@ -34,7 +34,7 @@
 ### augmented reality
 | project | description |
 |---|---|
-| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument — import a video, find the artifact in your environment, touch it |
+| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument â€” import a video, find the artifact in your environment, touch it |
 
 ### casino / analytics
 
@@ -49,6 +49,7 @@
 | project | description |
 |---|---|
 | [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
+| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure — API keys, private keys, AWS creds, passwords — with git pre-commit hook integration |
 
 
 
