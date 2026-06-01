@@ -51,6 +51,7 @@
 | [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
 | [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure |
 | [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies from a local requirements.txt or any GitHub repo URL |
+| [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live TUI monitoring DNS lookups on Windows — groups by domain, frequency counts, anomaly detection |
 
 
 
