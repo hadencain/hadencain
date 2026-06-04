@@ -9,11 +9,6 @@
 
 ## Directory
 
-### 3D Printing Tools
-| project | description |
-|---|---|
-| [openlock-terrain-gen](https://github.com/hadencain/openlock-terrain-gen) | browser-based OpenLOCK dungeon tile generator — configurable piece types, themes, batch STL export |
-
 ### Audio Tools and VSTs
 | project | description |
 |---|---|
@@ -49,6 +44,12 @@
 | [mlb-ev-analysis](https://github.com/hadencain/mlb-ev-analysis) | baseball analytics for predicting outcomes and identifying betting edges |
 | [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
+
+### 3D Printing Tools
+| project | description |
+|---|---|
+| [openlock-terrain-gen](https://github.com/hadencain/openlock-terrain-gen) | browser-based OpenLOCK dungeon tile generator — configurable piece types, themes, batch STL export |
+
 
 ### security tools
 
