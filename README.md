@@ -35,7 +35,7 @@
 | project | description |
 |---|---|
 | [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument â€” import a video, find the artifact in your environment, touch it |
-| [senses](https://github.com/hadencain/senses) | modular AR audio-visual instruments for Android — camera, motion, and generative audio as playable pieces |
+| [senses](https://github.com/hadencain/senses) | modular AR audio-visual instruments for Android |
 
 ### casino / analytics
 
