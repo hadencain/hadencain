@@ -9,6 +9,11 @@
 
 ## Directory
 
+### 3D Printing Tools
+| project | description |
+|---|---|
+| [openlock-terrain-gen](https://github.com/hadencain/openlock-terrain-gen) | browser-based OpenLOCK dungeon tile generator — configurable piece types, themes, batch STL export |
+
 ### Audio Tools and VSTs
 | project | description |
 |---|---|
@@ -34,7 +39,7 @@
 ### augmented reality
 | project | description |
 |---|---|
-| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument â€” import a video, find the artifact in your environment, touch it |
+| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument â€" import a video, find the artifact in your environment, touch it |
 | [senses](https://github.com/hadencain/senses) | modular AR audio-visual instruments for Android |
 
 ### casino / analytics
