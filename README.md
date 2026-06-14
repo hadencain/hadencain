@@ -21,6 +21,7 @@
 | [Mod-u-l8r](https://github.com/hadencain/Mod-u-l8r) | custom amplitude or frequency modulation with pitch tracking |
 | [Text-additive-synth](https://github.com/hadencain/Text-additive-synth) | demos psychoacoustic phenomena and develops performance presets |
 | [TCBBP](https://github.com/hadencain/TCBBP) | terminal controlled beat-based probability |
+| [TCGS](https://github.com/hadencain/TCGS) | terminal controlled granular synthesizer with Textual TUI, modulation matrix, and full FX chain |
 
 ### Video Effects
 | project | description |
