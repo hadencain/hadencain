@@ -12,7 +12,7 @@
 ### Audio Tools and VSTs
 | project | description |
 |---|---|
-| [granular synthesizer](https://github.com/hadencain/granulator) | Granular synthesis VST3 plugin built with JUCE 7 |
+| [granular synthesizer](https://github.com/hadencain/granular-synthesizer) | Granular synthesis VST3 plugin built with JUCE 7 |
 | [audioSort](https://github.com/hadencain/audioSort) | multi-signal ML classifier for organizing audio sample libraries |
 | [tunedown-theory](https://github.com/hadencain/tunedown-theory) | interactive scale and theory practice tool with fretboard and keyboard visualization |
 | [spotify-companion](https://github.com/hadencain/spotify-companion) | an accompanist for Spotify listening sessions with ChucK |
