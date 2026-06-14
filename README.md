@@ -34,7 +34,7 @@
 ### augmented reality
 | project | description |
 |---|---|
-| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument â€" import a video, find the artifact in your environment, touch it |
+| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument — import a video, find the artifact in your environment, touch it |
 | [senses](https://github.com/hadencain/senses) | modular AR audio-visual instruments for Android |
 
 ### casino / analytics
@@ -74,6 +74,7 @@
 
   <br>
 
+  <table>
   <tr>
   <td><a href="https://www.youtube.com/watch?v=jv2YlAzdYcc"><img src="https://i.ytimg.com/vi/jv2YlAzdYcc/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=YlxGycOps5g"><img src="https://i.ytimg.com/vi/YlxGycOps5g/mqdefault.jpg" width="120"></a></td>
@@ -87,6 +88,7 @@
   <td><a href="https://www.youtube.com/watch?v=vIAgB3O1O8Q&t=457s"><img src="https://i.ytimg.com/vi/vIAgB3O1O8Q/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=vKIITtMNoJA"><img src="https://i.ytimg.com/vi/vKIITtMNoJA/mqdefault.jpg" width="120"></a></td>
 </tr>
+  </table>
 
 </details>
 
@@ -96,6 +98,7 @@
   <summary><strong>Experiments</strong></summary>
 
   <br>
+  <table>
   <tr>
   <td><a href="https://www.youtube.com/watch?v=QqMaGA5y4v0"><img src="https://i.ytimg.com/vi/QqMaGA5y4v0/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=XSZ-vyWnf5s"><img src="https://i.ytimg.com/vi/XSZ-vyWnf5s/mqdefault.jpg" width="120"></a></td>
@@ -107,6 +110,7 @@
   <td><a href="https://www.youtube.com/watch?v=kwAxMWE5EBE"><img src="https://i.ytimg.com/vi/kwAxMWE5EBE/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=UDcjor4_jd4"><img src="https://i.ytimg.com/vi/UDcjor4_jd4/mqdefault.jpg" width="120"></a></td>
 </tr>
+  </table>
 
 </details>
 
