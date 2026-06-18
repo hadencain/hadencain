@@ -65,6 +65,7 @@
 | [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and CVEs; `--graph` exports a D3 transitive dependency tree with per-node risk coloring |
 | [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
 | [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports — real-time watch mode, process inspection, health scan, and kill |
+| [cairn](https://github.com/hadencain/cairn) | OSINT infrastructure pivot tool — maps domain/IP relationships across WHOIS, DNS, cert transparency, passive DNS, ASN, reverse IP, and HTTP fingerprint; flags new domains, bulletproof hosting, CDN edges; exports JSON and D3 force graph |
 
 
 
