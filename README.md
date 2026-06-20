@@ -65,7 +65,7 @@
 | [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and CVEs |
 | [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
 | [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports |
-| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, cert transparency, passive DNS, ASN, reverse IP, and HTTP fingerprint |
+| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP fingerprint |
 | [magpie](https://github.com/hadencain/magpie) | seller-centric OSINT for detecting organized retail crime |
 
 
