@@ -9,6 +9,18 @@
 
 ## Directory
 
+### security tools
+
+| project | description |
+|---|---|
+| [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
+| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure; `git-history.py` scans the full commit history for secrets committed and later removed |
+| [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and CVEs; `--graph` exports a D3 transitive dependency tree with per-node risk coloring |
+| [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
+| [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports — real-time watch mode, process inspection, health scan, and kill |
+| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP fingerprint |
+| [magpie](https://github.com/hadencain/magpie) | seller-centric OSINT for detecting organized retail crime |
+
 ### Audio Tools and VSTs
 | project | description |
 |---|---|
@@ -36,40 +48,12 @@
 | [Glitch](https://github.com/hadencain/Glitch) | temporal video corruption algorithm |
 | [RGBA_blending](https://github.com/hadencain/RGBA_blending) | alpha-blending two files for cover art or video generation |
 
-### augmented reality
-| project | description |
-|---|---|
-| [vessel (in progress)](https://github.com/hadencain/vessel) | Android AR instrument — import a video, find the artifact in your environment, touch it |
-| [senses](https://github.com/hadencain/senses) | modular AR audio-visual instruments for Android |
-
 ### casino / analytics
 
 | project | description |
 |---|---|
-| [mlb-ev-analysis](https://github.com/hadencain/mlb-ev-analysis) | baseball analytics for predicting outcomes and identifying betting edges |
 | [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
-
-### 3D Printing Tools
-| project | description |
-|---|---|
-| [openlock-terrain-gen](https://github.com/hadencain/openlock-terrain-gen) | browser-based OpenLOCK dungeon tile generator — configurable piece types, themes, batch STL export |
-
-
-### security tools
-
-| project | description |
-|---|---|
-| [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
-| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure |
-| [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and CVEs |
-| [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
-| [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports |
-| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP fingerprint |
-| [magpie](https://github.com/hadencain/magpie) | seller-centric OSINT for detecting organized retail crime |
-
-
-
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <h2>Video Gallery</h2> 
