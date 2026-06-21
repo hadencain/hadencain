@@ -14,7 +14,7 @@
 | project | description |
 |---|---|
 | [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors Windows 11 camsvc WAL runaway write bug |
-| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposur |
+| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure |
 | [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages |
 | [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
 | [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports  |
