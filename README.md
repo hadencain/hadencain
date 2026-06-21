@@ -14,11 +14,11 @@
 | project | description |
 |---|---|
 | [capabilityaccessmanager_monitor](https://github.com/hadencain/capabilityaccessmanager_monitor) | monitors and auto-remediates the Windows 11 camsvc WAL runaway write bug |
-| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposure; `git-history.py` scans the full commit history for secrets committed and later removed |
-| [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages, abandoned libraries, and CVEs; `--graph` exports a D3 transitive dependency tree with per-node risk coloring |
+| [secret-scanner](https://github.com/hadencain/secret-scanner) | scans source files for accidental credential exposur |
+| [dependency-risk-scan](https://github.com/hadencain/dependency-risk-scan) | audits Python dependencies for outdated packages |
 | [dns-request-logger](https://github.com/hadencain/dns-request-logger) | live monitoring DNS lookups on Windows|
-| [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports — real-time watch mode, process inspection, health scan, and kill |
-| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP fingerprint |
+| [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports  |
+| [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP |
 | [magpie](https://github.com/hadencain/magpie) | seller-centric OSINT for detecting organized retail crime |
 
 ### Audio Tools and VSTs
