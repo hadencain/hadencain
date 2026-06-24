@@ -52,7 +52,8 @@
 
 | project | description |
 |---|---|
-| [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking (update in progress) |
+| [bjap](https://github.com/hadencain/bjap) | blackjack advantage-play trainer — strategy + counting drills, Illustrious 18 index play, bet-ramp dollar economics, Monte Carlo edge sim, and a playable casino table |
+| [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking (superseded by bjap) |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
 
 <!-- BEGIN YOUTUBE-CARDS -->
