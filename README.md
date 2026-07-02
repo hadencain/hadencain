@@ -38,6 +38,7 @@
 | [spectralShuffler](https://github.com/hadencain/spectralShuffler) | spectral shuffler VST3 — randomly replays FFT frames within a user-defined frequency band |
 | [gravityWell](https://github.com/hadencain/gravityWell) | spectral black-hole VST3 — audio redshifts and pools at a configurable event horizon |
 | [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a integrator along a coherent-to-Paulstretch phase axis |
+| [whiteHole](https://github.com/hadencain/whiteHole) | anti-mass spectral leveler VST3 — per-bin repulsion lifts buried content to a floor and flattens peaks, phase-preserving |
 | [phaseMangler](https://github.com/hadencain/phaseMangler) | spectral phase scrambler VST3 — 3-band stochastic FFT phase destruction, magnitudes preserved |
 
 ### Video Effects
