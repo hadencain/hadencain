@@ -37,7 +37,7 @@
 | [fracturedReverb](https://github.com/hadencain/fracturedReverb) | granular reverb VST3 — FDN tail fragmented by a grain engine |
 | [spectralShuffler](https://github.com/hadencain/spectralShuffler) | spectral shuffler VST3 — randomly replays FFT frames within a user-defined frequency band |
 | [gravityWell](https://github.com/hadencain/gravityWell) | spectral black-hole VST3 — audio redshifts and pools at a configurable event horizon |
-| [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a leaky integrator along a coherent-to-Paulstretch phase axis |
+| [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a integrator along a coherent-to-Paulstretch phase axis |
 | [phaseMangler](https://github.com/hadencain/phaseMangler) | spectral phase scrambler VST3 — 3-band stochastic FFT phase destruction, magnitudes preserved |
 
 ### Video Effects
