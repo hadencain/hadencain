@@ -34,7 +34,7 @@
 | [Text-additive-synth](https://github.com/hadencain/Text-additive-synth) | demos psychoacoustic phenomena and develops performance presets |
 | [TCBBP](https://github.com/hadencain/TCBBP) | terminal controlled beat-based probability |
 | [TCGS](https://github.com/hadencain/TCGS) | terminal controlled granular synthesizer |
-| [fracturedReverb](https://github.com/hadencain/fracturedReverb) | granular reverb VST3 — FDN tail fragmented by a grain engine |
+| [fracturedReverb](https://github.com/hadencain/fracturedReverb) | granular reverb VST3 — FDN tail fragmented by a grain engine, with a live three-mode visualization of the tail and every grain |
 | [spectralShuffler](https://github.com/hadencain/spectralShuffler) | spectral shuffler VST3 — randomly replays FFT frames within a user-defined frequency band |
 | [gravityWell](https://github.com/hadencain/gravityWell) | spectral black-hole VST3 — audio redshifts and pools at a configurable event horizon |
 | [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a leaky integrator along a coherent-to-Paulstretch phase axis, with spectral freeze |
