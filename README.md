@@ -34,10 +34,10 @@
 | [Text-additive-synth](https://github.com/hadencain/Text-additive-synth) | demos psychoacoustic phenomena and develops performance presets |
 | [TCBBP](https://github.com/hadencain/TCBBP) | terminal controlled beat-based probability |
 | [TCGS](https://github.com/hadencain/TCGS) | terminal controlled granular synthesizer |
-| [fracturedReverb](https://github.com/hadencain/fracturedReverb) | granular reverb VST3 — FDN tail fragmented by a grain engine, with a live three-mode visualization of the tail and every grain |
+| [fracturedReverb](https://github.com/hadencain/fracturedReverb) | granular reverb VST3 — FDN tail fragmented by a grain engine |
 | [spectralShuffler](https://github.com/hadencain/spectralShuffler) | spectral shuffler VST3 — randomly replays FFT frames within a user-defined frequency band |
 | [gravityWell](https://github.com/hadencain/gravityWell) | spectral black-hole VST3 — audio redshifts and pools at a configurable event horizon |
-| [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a leaky integrator along a coherent-to-Paulstretch phase axis, with spectral freeze |
+| [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear through a leaky integrator along a coherent-to-Paulstretch phase axis |
 | [phaseMangler](https://github.com/hadencain/phaseMangler) | spectral phase scrambler VST3 — 3-band stochastic FFT phase destruction, magnitudes preserved |
 
 ### Video Effects
@@ -53,7 +53,7 @@
 
 | project | description |
 |---|---|
-| [bjap](https://github.com/hadencain/bjap) | blackjack advantage-play trainer — strategy + counting drills, Illustrious 18 index play, bet-ramp dollar economics, Monte Carlo edge sim, and a playable casino table |
+| [bjap](https://github.com/hadencain/bjap) | blackjack advantage-play trainer — counting drills, Monte Carlo edge sim |
 | [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking (superseded by bjap) |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
 
