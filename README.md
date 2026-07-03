@@ -20,6 +20,8 @@
 | [portCheck](https://github.com/hadencain/portCheck) | Windows CLI for monitoring localhost dev server ports  |
 | [cairn](https://github.com/hadencain/cairn) | maps domain/IP relationships across WHOIS, DNS, passive DNS, ASN, reverse IP, and HTTP |
 | [magpie](https://github.com/hadencain/magpie) | seller-centric OSINT for detecting organized retail crime |
+| [installSandbox](https://github.com/hadencain/installSandbox) | detonates pip/npm installs in a disposable WSL2 guest and returns an allow/block verdict from observed behavior |
+| [repoAuditor](https://github.com/hadencain/repoAuditor) | pre-publish gate — scans a repo's history for secrets, PII, and large files, emits a SAFE/UNSAFE verdict |
 
 ### Audio Tools and VSTs
 | project | description |
