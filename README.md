@@ -44,6 +44,7 @@
 ### Video Effects
 | project | description |
 |---|---|
+| [bleed](https://github.com/hadencain/bleed) | datamosh sonification — melt broadcast video, read the decoded melt back as noise-music stems (CLI + local web UI) |
 | [palimpsest](https://github.com/hadencain/palimpsest) | experimental audio-reactive video compositor |
 | [osmosis](https://github.com/hadencain/osmosis) | pixel contamination between two videos |
 | [spectral](https://github.com/hadencain/spectral) | output frequency based granular synthesis |
