@@ -4,9 +4,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLt7EcRWaqJPFppQZRZEVaQ)
 [![Keybase](https://img.shields.io/badge/Keybase-000000?style=flat&logo=keybase&logoColor=white)](https://keybase.io/hadencain)
 
-# Haden Cain
-
-
 ## Directory
 
 ### security tools
