@@ -36,6 +36,7 @@
 | [smear](https://github.com/hadencain/smear) | spectral blur VST3 — magnitudes smear in an integrator along a coherent-to-Paulstretch phase axis |
 | [whiteHole](https://github.com/hadencain/whiteHole) | anti-mass spectral leveler VST3 — per-bin repulsion lifts buried content to a floor and flattens peaks, phase-preserving |
 | [phaseMangler](https://github.com/hadencain/phaseMangler) | spectral phase scrambler VST3 — 3-band stochastic FFT phase destruction, magnitudes preserved |
+| [corrode](https://github.com/hadencain/corrode) | 7-stage noise mangler VST3 — granular, spectral, glitch, bitcrush, distortion, convolution & pitch-smear in a filtered global feedback loop, with a runtime mod matrix + chaos engine |
 
 ### Video Effects
 | project | description |
