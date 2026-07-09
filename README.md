@@ -52,6 +52,8 @@
 
 | project | description |
 |---|---|
+| [assay](https://github.com/hadencain/assay) | verified statistical research assistant — LLM plans and explores a dataset in a live Jupyter kernel, a deterministic verifier independently recomputes every reported number |
+| [anchor](https://github.com/hadencain/anchor) | local answer engine — SearXNG search + Ollama synthesis with inline citations and a grounding guardrail. self-hosted Perplexity alternative, no API keys |
 | [localAIVoiceover](https://github.com/hadencain/localAIVoiceover) | local self-hosted TTS — Kokoro-82M on-GPU, terminal wizard + turns Obsidian vault notes into chapterized m4a audiobooks |
 | [vox](https://github.com/hadencain/vox) | local, offline voice dictation for Windows — global hotkey → GPU Whisper → local LLM cleanup → typed into any app |
 | [claude-dispatch](https://github.com/hadencain/claude-dispatch) | Windows CLI launcher for multi-agent Claude Code sessions via Windows Terminal |
