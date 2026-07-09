@@ -52,6 +52,7 @@
 
 | project | description |
 |---|---|
+| [studytool](https://github.com/hadencain/studytool) | multi-deck flashcard app — hand-build decks or import your own notes, SM-2 spaced repetition with confidence-gated mastery (Electron) |
 | [pomodoro-timer](https://github.com/hadencain/pomodoro-timer) | minimal desktop pomodoro timer with a live tray countdown (Tauri 2) |
 | [small-project-finder](https://github.com/hadencain/small-project-finder) | GitHub search inverted — surfaces real projects by unknown makers under a star ceiling |
 | [pcb-enclosure-generator](https://github.com/hadencain/pcb-enclosure-generator) | parametric snap-fit 3D-printable PCB enclosure generator — emits STL + editable OpenSCAD |
