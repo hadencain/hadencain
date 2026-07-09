@@ -48,6 +48,16 @@
 | [Glitch](https://github.com/hadencain/Glitch) | temporal video corruption algorithm |
 | [RGBA_blending](https://github.com/hadencain/RGBA_blending) | alpha-blending two files for cover art or video generation |
 
+### AI adjacent
+
+| project | description |
+|---|---|
+| [localAIVoiceover](https://github.com/hadencain/localAIVoiceover) | local self-hosted TTS — Kokoro-82M on-GPU, terminal wizard + turns Obsidian vault notes into chapterized m4a audiobooks |
+| [vox](https://github.com/hadencain/vox) | local, offline voice dictation for Windows — global hotkey → GPU Whisper → local LLM cleanup → typed into any app |
+| [claude-dispatch](https://github.com/hadencain/claude-dispatch) | Windows CLI launcher for multi-agent Claude Code sessions via Windows Terminal |
+| [youtube-transcription-distillation](https://github.com/hadencain/youtube-transcription-distillation) | summarizes YouTube videos into Obsidian notes from transcripts |
+| [yt-transcript-extension](https://github.com/hadencain/yt-transcript-extension) | Chrome extension to download YouTube transcripts from search results |
+
 ### other
 
 | project | description |
@@ -56,12 +66,9 @@
 | [pomodoro-timer](https://github.com/hadencain/pomodoro-timer) | minimal desktop pomodoro timer with a live tray countdown (Tauri 2) |
 | [small-project-finder](https://github.com/hadencain/small-project-finder) | GitHub search inverted — surfaces real projects by unknown makers under a star ceiling |
 | [pcb-enclosure-generator](https://github.com/hadencain/pcb-enclosure-generator) | parametric snap-fit 3D-printable PCB enclosure generator — emits STL + editable OpenSCAD |
-| [claude-dispatch](https://github.com/hadencain/claude-dispatch) | Windows CLI launcher for multi-agent Claude Code sessions via Windows Terminal |
 | [paintMixing](https://github.com/hadencain/paintMixing) | desktop Kubelka-Munk paint-mixing visualizer for a limited pigment palette |
 | [bjap](https://github.com/hadencain/bjap) | blackjack advantage-play trainer — counting drills, Monte Carlo edge sim |
 | [3d-print-asset-manager](https://github.com/hadencain/3d-print-asset-manager) | organizer for 3D print model assets and libraries |
-| [youtube-transcription-distillation](https://github.com/hadencain/youtube-transcription-distillation) | summarizes YouTube videos into Obsidian notes from transcripts |
-| [yt-transcript-extension](https://github.com/hadencain/yt-transcript-extension) | Chrome extension to download YouTube transcripts from search results |
 | [github-cleaner](https://github.com/hadencain/github-cleaner) | CLI tool for rewriting GitHub repo history |
 | [mlb-ev-analysis](https://github.com/hadencain/mlb-ev-analysis) | baseball analytics — model win probabilities vs sportsbook odds to find +EV bets |
 | [transactionHistory](https://github.com/hadencain/transactionHistory) | web app for analyzing and visualizing personal transaction data from CSV |
