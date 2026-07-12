@@ -66,6 +66,7 @@
 
 | project | description |
 |---|---|
+| [offline-media-hub](https://github.com/hadencain/offline-media-hub) | Netflix-style browser and player for local media — thumbnail grid, search, resume playback, offline-first (Tauri 2) |
 | [studytool](https://github.com/hadencain/studytool) | multi-deck flashcard app — hand-build decks or import your own notes, SM-2 spaced repetition with confidence-gated mastery (Electron) |
 | [pomodoro-timer](https://github.com/hadencain/pomodoro-timer) | minimal desktop pomodoro timer with a live tray countdown (Tauri 2) |
 | [small-project-finder](https://github.com/hadencain/small-project-finder) | GitHub search inverted — surfaces real projects by unknown makers under a star ceiling |
