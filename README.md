@@ -58,6 +58,7 @@
 | [localAIVoiceover](https://github.com/hadencain/localAIVoiceover) | local self-hosted TTS — Kokoro-82M on-GPU, terminal wizard + turns Obsidian vault notes into chapterized m4a audiobooks |
 | [vox](https://github.com/hadencain/vox) | local, offline voice dictation for Windows — global hotkey → GPU Whisper → local LLM cleanup → typed into any app |
 | [claude-dispatch](https://github.com/hadencain/claude-dispatch) | Windows CLI launcher for multi-agent Claude Code sessions via Windows Terminal |
+| [agentGrid](https://github.com/hadencain/agentGrid) | Novation Launchpad as a live hardware map of your Claude Code agent fleet — one RGB pad per agent, output-only tray app |
 | [youtube-transcription-distillation](https://github.com/hadencain/youtube-transcription-distillation) | summarizes YouTube videos into Obsidian notes from transcripts |
 | [yt-transcript-extension](https://github.com/hadencain/yt-transcript-extension) | Chrome extension to download YouTube transcripts from search results |
 
