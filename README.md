@@ -67,7 +67,6 @@
 
 | project | description |
 |---|---|
-| [offline-media-hub](https://github.com/hadencain/offline-media-hub) | Netflix-style browser and player for local media — thumbnail grid, search, resume playback, offline-first (Tauri 2) |
 | [studytool](https://github.com/hadencain/studytool) | multi-deck flashcard app — hand-build decks or import your own notes, SM-2 spaced repetition with confidence-gated mastery (Electron) |
 | [pomodoro-timer](https://github.com/hadencain/pomodoro-timer) | minimal desktop pomodoro timer with a live tray countdown (Tauri 2) |
 | [small-project-finder](https://github.com/hadencain/small-project-finder) | GitHub search inverted — surfaces real projects by unknown makers under a star ceiling |
@@ -80,7 +79,6 @@
 | [transactionHistory](https://github.com/hadencain/transactionHistory) | web app for analyzing and visualizing personal transaction data from CSV |
 | [rouletteMonteCarlo](https://github.com/hadencain/rouletteMonteCarlo) | roulette simulation with Monte Carlo analysis and multiple betting strategies |
 | [spotify-companion](https://github.com/hadencain/spotify-companion) | accompanist for Spotify listening sessions with ChucK |
-| [blackjackTrainer](https://github.com/hadencain/blackjackTrainer) | basic strategy, card counting, and gameplay performance tracking (superseded by bjap) |
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <h2>Video Gallery</h2> 
