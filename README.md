@@ -6,8 +6,6 @@
 [![Keybase](https://img.shields.io/badge/Keybase-000000?style=flat&logo=keybase&logoColor=white)](https://keybase.io/hadencain)
 
 
-Code is cheap now, but ideas are not.
-
 
 - **[assay](https://github.com/hadencain/assay)** — statistical research assistant where a deterministic verifier recomputes every LLM-reported number
 - **[vox](https://github.com/hadencain/vox)** — offline voice dictation for Windows, hotkey to any app
