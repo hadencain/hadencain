@@ -13,7 +13,6 @@ Source is private — full catalog and access requests at [hadencain.com](https:
 <!-- BEGIN YOUTUBE-CARDS -->
 <h2>Video Gallery</h2> 
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLt7EcRWaqJPFppQZRZEVaQ?style=flat&logo=youtube&label=Subscribers)](https://youtube.com/@Hadencain)
 
 <details open>
   <summary><strong>Demos</strong></summary>
