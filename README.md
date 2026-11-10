@@ -7,14 +7,14 @@
 
 
 
-- **[assay](https://github.com/hadencain/assay)** — statistical research assistant where a deterministic verifier recomputes every LLM-reported number
-- **[vox](https://github.com/hadencain/vox)** — offline voice dictation for Windows, hotkey to any app
-- **[installSandbox](https://github.com/hadencain/installSandbox)** — detonates pip/npm installs in disposable WSL2, verdicts from behavior
-- **[cairn](https://github.com/hadencain/cairn)** — maps domain/IP relationships across WHOIS, DNS, ASN, and more
-- **[corrode](https://github.com/hadencain/corrode)** — 7-stage noise mangler VST3 with global feedback and chaos engine
-- **[bleed](https://github.com/hadencain/bleed)** — datamosh sonification: melt broadcast video into noise-music stems
+- **assay** — statistical research assistant where a deterministic verifier recomputes every LLM-reported number
+- **vox** — offline voice dictation for Windows, hotkey to any app
+- **installSandbox** — detonates pip/npm installs in disposable WSL2, verdicts from behavior
+- **cairn** — maps domain/IP relationships across WHOIS, DNS, ASN, and more
+- **corrode** — 7-stage noise mangler VST3 with global feedback and chaos engine
+- **bleed** — datamosh sonification: melt broadcast video into noise-music stems
 
-Full catalog on the [repositories tab](https://github.com/hadencain?tab=repositories) and at [hadencain.com](https://hadencain.com).
+Source is private — full catalog and access requests at [hadencain.com](https://hadencain.com).
 
 
 
