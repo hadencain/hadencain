@@ -6,14 +6,6 @@
 [![Keybase](https://img.shields.io/badge/Keybase-000000?style=flat&logo=keybase&logoColor=white)](https://keybase.io/hadencain)
 
 
-
-- **assay** — statistical research assistant where a deterministic verifier recomputes every LLM-reported number
-- **vox** — offline voice dictation for Windows, hotkey to any app
-- **installSandbox** — detonates pip/npm installs in disposable WSL2, verdicts from behavior
-- **cairn** — maps domain/IP relationships across WHOIS, DNS, ASN, and more
-- **corrode** — 7-stage noise mangler VST3 with global feedback and chaos engine
-- **bleed** — datamosh sonification: melt broadcast video into noise-music stems
-
 Source is private — full catalog and access requests at [hadencain.com](https://hadencain.com).
 
 
@@ -37,10 +29,9 @@ Source is private — full catalog and access requests at [hadencain.com](https:
 </tr>
 
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=djx1jFVDtMk"><img src="https://i.ytimg.com/vi/djx1jFVDtMk/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=GPo4hJ-VKjI"><img src="https://i.ytimg.com/vi/GPo4hJ-VKjI/mqdefault.jpg" width="120"></a></td>
   <td><a href="https://www.youtube.com/watch?v=vIAgB3O1O8Q&t=457s"><img src="https://i.ytimg.com/vi/vIAgB3O1O8Q/mqdefault.jpg" width="120"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=vKIITtMNoJA"><img src="https://i.ytimg.com/vi/vKIITtMNoJA/mqdefault.jpg" width="120"></a></td>
+
 </tr>
   </table>
 
